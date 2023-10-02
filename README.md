@@ -9,8 +9,10 @@ The goal of the challenge was to use the features in the provided dataset to cre
 # Data Preprocessing
 What variable(s) are the target(s) for the model?
 - "IS_SUCCESSFUL"
+  
 What variable(s) are the features for your model?
 - "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", "ASK_AMT"
+
 What variable(s) should be removed from the input data because they are neither targets nor features?
 - "EIN", "NAME"
 
