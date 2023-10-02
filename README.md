@@ -6,7 +6,7 @@ The goal of the challenge was to use the features in the provided dataset to cre
 
 ## Results
 
-# Data Preprocessing
+### Data Preprocessing
 What variable(s) are the target(s) for the model?
 - "IS_SUCCESSFUL"
   
@@ -16,7 +16,7 @@ What variable(s) are the features for your model?
 What variable(s) should be removed from the input data because they are neither targets nor features?
 - "EIN", "NAME"
 
-# Compiling, Training, and Evaluating the Model
+## Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - 2 hidden layers, 8 and 5 neurons each, both using "relo" activation function
 Were you able to achieve the target model performance?
